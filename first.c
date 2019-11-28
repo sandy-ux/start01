@@ -2,5 +2,5 @@
 int main()
 {
 printf("hello cosmos");
-return 0:
+return 0;
 }
